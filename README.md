@@ -31,7 +31,8 @@ A Flask-based NLP and Computer Vision platform that combines user-provided text 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](static/uploads/sample_dashboard.png) <!-- Replace with actual screenshot if available -->
+![Dashboard Screenshot](images1.png) <!-- Replace with actual screenshot if available -->
+![Dashboard Screenshot](images2.png)
 
 ---
 
