@@ -1,0 +1,9 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore specific secret test file
+node_modules/node-qiniu/node_modules/request/tests/test-s3.js
+
+# Ignore any other secret config files (example)
+.env
+secret_config.json
